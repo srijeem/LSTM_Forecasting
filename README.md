@@ -1,6 +1,7 @@
 ## Airline Passenger Forecasting Using LSTM Neural Networks
 ## Overview
-   This project involves time series forecasting of monthly airline passenger counts using a Long Short-Term Memory (LSTM) recurrent neural network. 
+   This project This project used a publicly available data.
+   This involves time series forecasting of monthly airline passenger counts using a Long Short-Term Memory (LSTM) recurrent neural network. 
    The goal was to predict future passenger volumes based on historical data, capturing seasonality and trends for better operational planning.
 
 ## Tech
